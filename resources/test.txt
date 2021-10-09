@@ -1,0 +1,1 @@
+Test serving static file
